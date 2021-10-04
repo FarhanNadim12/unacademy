@@ -1,0 +1,66 @@
+[
+    {
+        "id": "101",
+        "img": "https://img.freepik.com/free-vector/designers-are-working-desing-web-page-web-design-user-interface-user-experience-content-organization_335657-4403.jpg?size=626&ext=jpg",
+        "courseTitle": "Web-Design",
+        "courseDescription": "in this course, with the help of our amazing instructor and the meticulously crafted web design tutorials, you will be able to develop yourself as a skilled web designer at the comfort of your home, opening a door of endless possibilities in front of you.",
+        "courseDuration": "30 days",
+        "CourseFee": "100"
+    },
+    {
+        "id": "102",
+        "img": "https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png",
+        "courseTitle": "Web-Development",
+        "courseDescription": "Web Development consists of two segments: front end development and backend development. Front-end Developers work with visual designs of a website and build the sites using code. The front end developer builds the structure of a website using HTML, then change the layout using CSS and sometimes uses javascript too. Besides Backend developers work with more advanced issues. They work with API (Application Programming Interfaces), CGI programs and sometimes script like PHP. Websites functionality is their main concern.",
+        "courseDuration": "60 days",
+        "CourseFee": "120"
+    },
+    {
+        "id": "103",
+        "img": "https://img.freepik.com/free-vector/graphic-design-art-profession-theme_24877-63484.jpg?size=338&ext=jpg",
+        "courseTitle": "Graphics-Design",
+        "courseDescription": "The main purpose here is to make you able to use the graphic design tools and techniques in a professional way. Graphic Design helps to build the brand identity of a company. Thus it needs to be conceptual and unique to represent a company, brand or any kind of products or services. The module is designed to cover all aspects of Graphic Design and it is mostly helpful for a fresher who can start afresh. To know more about the module, take a look in the highlights of the module and get insights of how we are conducting the course.",
+        "courseDuration": "25 days",
+        "CourseFee": "80"
+    },
+    {
+        "id": "104",
+        "img": "https://cdn.elearningindustry.com/wp-content/uploads/2020/10/what-are-the-benefits-of-animation-based-learning.jpg",
+        "courseTitle": "Cartoon Animation",
+        "courseDescription": "In this course, you will get to learn everything you need to get started with animation. From knowing the software and hardware required for animation, how to perform sound design, to the skills and techniques to use Adobe Animate and other tools, and the nitty-gritty grammar of animation, you’ll learn them all in this course.",
+        "courseDuration": "40 days",
+        "CourseFee": "110"
+    },
+    {
+        "id": "105",
+        "img": "https://leverageedu.com/blog/wp-content/uploads/2020/05/How-to-Learn-Spoken-English_.png",
+        "courseTitle": "Spoken English",
+        "courseDescription": "English is a must need in Bangladesh. We all want to speak in English. Our Spoken English course helps you learn good English and speak fluently. This course is designed for the students who want to be able to speak fluently in formal and informal situations, develop their communication as well as soft skills. It helps them carry on daily basic conversation, basic interview question-answer, speech giving practice, public speaking, formal presentation.It also includes individual and group presentations on a given/selected topic. As a result, students will be able to make themselves more confident to speak in English no matter where they are about to speak.",
+        "courseDuration": "90 days",
+        "CourseFee": "70"
+    },
+    {
+        "id": "106",
+        "img": "https://image.freepik.com/free-vector/marketing-illustration_1893-2260.jpg",
+        "courseTitle": "Digital Marketing",
+        "courseDescription": "Creative IT institute, a leading IT training institute in Bangladesh, has set its eye on providing the necessary support to individuals who want to exploit the opportunity and make their mark in digital marketing. Our digital marketing course will not only enable you to have a good understanding of the fundamentals of digital marketing but also generate a strategy for career growth.To help you understand the market behavior and formulate a productive approach, we have covered all the aspects of digital marketing in our course. After completing the course, you will have an in-depth understanding of SEO & Affiliate Marketing and how to envision the market scenarios and use them to good effect.",
+        "courseDuration": "30 days",
+        "CourseFee": "70"
+    },
+    {
+        "id": "107",
+        "img": "https://smart-international.org/volume/354/conversions/12-After-Effects-CC-The-Complete-Motion-Graphics-Course-large.jpg",
+        "courseTitle": "Motion-Graphics",
+        "courseDescription": "To tell it briefly, motion graphics is the kind of graphics which has motion. For instance, have you seen the movie Avengers: Endgame? Or any other movie for that matter? Have you noticed the starting? There are some graphic images with background music. And from that the word “Marvel” comes on screen. That is the perfect example of motion graphics. This technique is gaining popularity day by day. Because according to a survey by Levels Beyond, 40% of the users prefer watching a video of a product to reading about it and another survey by MIT says that human minds can process a visual information in as little as 13 milliseconds. So it is high time you learned motion graphics.",
+        "courseDuration": "30 days",
+        "CourseFee": "80"
+    },
+    {
+        "id": "108",
+        "img": "https://laptopempires.com/wp-content/uploads/2020/02/Best-Facebook-Marketing-Course.jpg",
+        "courseTitle": "Facebook Marketing",
+        "courseDescription": "What if you could earn using the social media you scroll all day? You guessed it right, we’re talking about Facebook here. Facebook is an extremely powerful tool for digital marketing in today’s context. But, starting off just on your own to make money on Facebook can seem a bit daunting. Sometimes, even the right content or product is not enough to build a sustainable online presence. For that, you need to be aware of a multitude of social media marketing strategies, proven tactics to promote a brand online, and different aspects of digital marketing to help your brand stand out from the crowd. That’s why, to help you ease your journey of building your online brand, 10 Minute School has brought to you the “Facebook Marketing” course designed by industry experts like Ayman Sadiq, Sadman Sadik, Salman Muqtadir, and Antik Mahmud! This course is a complete guide for learning digital marketing through Facebook, which teaches you the ins and outs of Facebook marketing with relevant examples and digestible tutorials. We have tried to make your learning experience more engaging and interesting so that you can start creating your own content on Facebook and earn in no time. Enroll today and spend 25 hours at your own pace to become a pro at Facebook Marketing!",
+        "courseDuration": "30 days",
+        "CourseFee": "40"
+    }
+]

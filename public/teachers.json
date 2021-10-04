@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "img": "https://yt3.ggpht.com/ytc/AKedOLTBLMf4tq8iRjYjbmOPzLlQbD31_D2E4AOSmFPGzw=s900-c-k-c0x00ffffff-no-rj",
+        "teacherName": "Jhankar Mahbub",
+        "designation": "Web-Design & Web-Development"
+    },
+    {
+        "id": "2",
+        "img": "https://pbs.twimg.com/media/EqCiERHWMAEyDW9.jpg",
+        "teacherName": "Imran Ali Dina",
+        "designation": "Graphics Design & Motion Graphics"
+    },
+    {
+        "id": "3",
+        "img": "https://ghoorilearning.com/uploads/images/b5d5f1dc5960d7486021c4a7abd067cf.jpg",
+        "teacherName": "Antik Mahmud",
+        "designation": "Cartoon Animation"
+    },
+    {
+        "id": "4",
+        "img": "https://www.biramhin.com/wp-content/uploads/2021/06/Munzereen-shahid-Fashion-image.jpg",
+        "teacherName": "Munzarin",
+        "designation": "Spoken English"
+    },
+    {
+        "id": "5",
+        "img": "https://yt3.ggpht.com/ytc/AKedOLRDdAd3EsOozEFNrsPuPDz6SHb-qRTLVFED7BM_Wxs=s900-c-k-c0x00ffffff-no-rj",
+        "teacherName": "Ayman Sadik",
+        "designation": "Digital & Facebook Marketing"
+    }
+]
